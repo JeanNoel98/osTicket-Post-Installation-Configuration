@@ -107,7 +107,9 @@ Start by making sure you are in the admin panel, select the agents tab and click
 </p>
 <p>
 From here we can fill out the  Department Information:<br />
-We can refrence the ### [osTicket Documents](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html) to see what each field means and what it does.
+We can refrence the 
+[osTicket Documents](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html) 
+to see what each field means and what it does.
 after we're done select “Create Dept” to finish
 </p>
 <br />
