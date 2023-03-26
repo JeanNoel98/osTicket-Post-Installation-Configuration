@@ -73,9 +73,13 @@ We will navigate to the Manage tab and select SLA -> Add New SLA
 </p>
 <p>
 From there we can create a Plan name to be selected when assigning In the Name field then filling in the rest of the filed to your specified desire: 
+  
 **Grace Period:** Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time.
+  
 **Status:** Choose Active or Disable for the plan.
+  
 **Transient:** SLA can be overridden on ticket transfer or help topic change; if not transient, the SLA will remain the same as it is assigned on ticket creation.
+  
 **Ticket Overdue Alerts:** This will DISABLE overdue alert notices to staff for tickets assigned this SLA.
 </p>
 <br />
